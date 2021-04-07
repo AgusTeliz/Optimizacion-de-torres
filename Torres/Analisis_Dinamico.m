@@ -1,5 +1,6 @@
 %% Analisis dinamico
 
+% No anda
 
 P_PerfilesNormalizados;
 NumEstCarga = 1;
